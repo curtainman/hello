@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-    printf("Alex Schwarz!");
-    printf("Computer Science");
+    printf("Alex Schwarz!\n");
+    printf("Computer Science\n");
     return 0;
 }
