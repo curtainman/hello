@@ -4,4 +4,5 @@
 int main(int argc, char **argv) {
     printf("Alex Schwarz!");
     printf("Computer Science");
+    return 0;
 }
